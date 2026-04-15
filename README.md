@@ -14,6 +14,11 @@ My first CTF. I signed up as part of a team, but ended up solving challenges on 
 |-----------|------------|--------|---------|
 | El Mensaje Oculto | Easy | 100 | [writeup](crypto/el-mensaje-oculto/writeup.md) |
 | Un Mensaje Transportable | Easy | 100 | [writeup](crypto/un-mensaje-transportable/writeup.md) |
+| El Mensaje de la Cueva | Easy | 200 | [writeup](crypto/el-mensaje-de-la-cueva/writeup.md) |
+| RSA Desprevenido | Medium | 300 | [writeup](crypto/rsa-desprevenido/writeup.md) |
+| Consecutive Chaos | Medium | 300 | [writeup](crypto/consecutive-chaos/writeup.md) |
+| RNG Malo | Medium | 400 | [writeup](crypto/rng-malo/writeup.md) |
+| Mensajes Gemelos | Easy | 400 | [writeup](crypto/mensajes-gemelos/writeup.md) |
 
 ### Forensics
 
