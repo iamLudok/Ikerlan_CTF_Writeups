@@ -1,0 +1,109 @@
+Return-Path: <noreply@superpremium-deals.com>
+Delivered-To: victim@ik3rl4n.ctf
+Received: from mail.superpremium-deals.com (mail.superpremium-deals.com [192.168.1.100])
+	by ik3rl4n.ctf (Postfix) with ESMTP id 7F4A31234567
+	for <victim@ik3rl4n.ctf>; Sat, 27 Sep 2025 10:30:15 +0000 (UTC)
+Received: by mail.superpremium-deals.com (Postfix, from userid 1000)
+	id 8G5B42345678; Sat, 27 Sep 2025 10:29:45 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=superpremium-deals.com;
+	s=default; t=1727434185;
+	bh=aWtlcmxhbnszbTRpbF9oMzRkM3I1XzRkMA==;
+	h=From:To:Subject:Date:Message-ID;
+	b=dGVzdF9zaWduYXR1cmVfaGVyZQ==
+Message-ID: <20250927102945.8G5B42345678@mail.superpremium-deals.com>
+Date: Sat, 27 Sep 2025 10:29:45 +0000
+From: "Premium Deals" <noreply@superpremium-deals.com>
+To: victim@ik3rl4n.ctf
+Subject: =?UTF-8?B?8J+OgSBPZmVydGEgRXNwZWNpYWwgLSAxMDA0IGTDrWFzIGRlIGdhcmFudMOtYSEg8J+OgQ==?=
+X-Mailer: PhishMail Pro 3.0
+X-Originating-IP: 192.168.1.100
+X-Spam-Score: 8.5
+X-Hidden-Flag: aWtlcmxhbnszbTRpbF9oMzRkM3I1XzRkMA==
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_NextPart_000_0042_01D8B5F3.A1B2C3D4"
+
+------=_NextPart_000_0042_01D8B5F3.A1B2C3D4
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset=3D"utf-8">
+<title>Oferta Especial</title>
+</head>
+<body style=3D"font-family: Arial, sans-serif; background-color: #f0f0f0=
+; padding: 20px;">
+
+<div style=3D"max-width: 600px; margin: 0 auto; background-color: white;=
+ border-radius: 10px; padding: 30px; box-shadow: 0 4px 6px rgba(0,0,0,0=
+.1);">
+
+<h1 style=3D"color: #ff6b6b; text-align: center; font-size: 28px;">
+🎁 ¡FELICIDADES! Has sido seleccionado 🎁
+</h1>
+
+<p style=3D"font-size: 18px; color: #333;">
+Estimado usuario,
+</p>
+
+<p style=3D"font-size: 16px; color: #555; line-height: 1.6;">
+¡Has ganado nuestra <strong>MEGA PROMOCIÓN ESPECIAL</strong>! Tienes 1004=
+ días de garantía en todos nuestros productos premium.
+</p>
+
+<div style=3D"background: linear-gradient(45deg, #ff6b6b, #ffd93d); padd=
+ing: 20px; border-radius: 8px; text-align: center; margin: 20px 0;">
+<h2 style=3D"color: white; margin: 0; font-size: 24px;">
+💰 ¡AHORRA HASTA UN 90%! 💰
+</h2>
+<p style=3D"color: white; margin: 10px 0 0 0; font-size: 18px;">
+Oferta válida por tiempo limitado
+</p>
+</div>
+
+<p style=3D"font-size: 16px; color: #555;">
+Para reclamar tu premio, simplemente haz clic en el botón de abajo:
+</p>
+
+<div style=3D"text-align: center; margin: 30px 0;">
+<a href=3D"http://suspicious-link.com/claim?user=3Dvictim&token=3D12345" =
+style=3D"background-color: #28a745; color: white; padding: 15px 30px; te=
+xt-decoration: none; border-radius: 5px; font-size: 18px; font-weight: b=
+old;">
+🎯 RECLAMAR PREMIO AHORA
+</a>
+</div>
+
+<p style=3D"font-size: 14px; color: #888; text-align: center;">
+Si no puedes ver el botón, copia y pega este enlace en tu navegador:<br>
+http://suspicious-link.com/claim?user=3Dvictim&token=3D12345
+</p>
+
+<hr style=3D"border: none; border-top: 1px solid #eee; margin: 30px 0;">
+
+<p style=3D"font-size: 12px; color: #aaa; text-align: center;">
+Este email fue enviado por Premium Deals Corp.<br>
+Si no deseas recibir más emails, <a href=3D"#">haz clic aquí</a>.<br>
+<em>ID de seguimiento: #PD2025-0927-SPEC</em>
+</p>
+
+</div>
+
+<!-- Comentario oculto: La segunda parte está en el adjunto -->
+<!-- Pista: busca archivos adjuntos sospechosos -->
+
+</body>
+</html>
+
+------=_NextPart_000_0042_01D8B5F3.A1B2C3D4
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="premio_detalle.txt"
+
+TGEgc2VndW5kYSBwYXJ0ZSBkZWwgdGVzb3JvIGVzOiBfaDNhZDNyNV80bmFseXMxNX0KClBpc3Rh
+OiBCdXNjYSBlbiBsb3MgaGVhZGVycyBkZWwgZW1haWwsIGhheSBhbGdvIG3DoXMuLi4KCkVzdGUg
+YXJjaGl2byBmdWUgZ2VuZXJhZG8gYXV0b23DoXRpY2FtZW50ZSBwb3IgZWwgc2lzdGVtYSBkZSBw
+cm9tb2Npb25lcy4KTm8gcmVzcG9uZGFzIGEgZXN0ZSBlbWFpbC4=
+
+------=_NextPart_000_0042_01D8B5F3.A1B2C3D4--
