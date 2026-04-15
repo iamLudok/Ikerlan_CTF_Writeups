@@ -1,0 +1,2 @@
+PISTA: El primer mensaje contiene el texto conocido:
+'Hola mundo desde la universidad'
