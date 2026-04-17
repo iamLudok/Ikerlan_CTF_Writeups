@@ -75,13 +75,29 @@ My first CTF. I signed up as part of a team, but ended up solving challenges on 
 
 | Challenge | Difficulty | Points | Writeup |
 |-----------|------------|--------|---------|
+| Corrupted Image | Easy | 200 | [writeup](miscellaneous/corrupted-image/writeup.md) |
+| Time Machine | - | 200 | [writeup](miscellaneous/time-machine/writeup.md) |
+| ROM Hacker's Paradise | - | 300 | [writeup](miscellaneous/rom-hackers-paradise/writeup.md) |
+| The Pathfinder's Escape | Easy | 300 | [writeup](miscellaneous/pathfinders-escape/writeup.md) |
+| Honeypot Escape | - | 400 | [writeup](miscellaneous/honeypot-escape/writeup.md) |
+| Python Jail v2.0 - Maximum Security | - | 400 | [writeup](miscellaneous/python-jail-v2/writeup.md) |
+| The Binary Vault | - | 400 | [writeup](miscellaneous/the-binary-vault/writeup.md) |
 
 ### Operational Technology
 
 | Challenge | Difficulty | Points | Writeup |
 |-----------|------------|--------|---------|
+| Engaño Industrial: El Hombre en el Medio Modbus | - | 200 | [writeup](operational-technology/engano-industrial-mitm-modbus/writeup.md) |
+| Engaño Industrial: Extrayendo el Mensaje Oculto | Easy | 300 | [writeup](operational-technology/engano-industrial-mensaje-oculto/writeup.md) |
+| Operation Nightshift - Industrial Sabotage Investigation (Part 1) | - | 200 | [writeup](operational-technology/operation-nightshift-part1/writeup.md) |
+| Operation Nightshift - Industrial Sabotage Investigation (Part 2) | - | 300 | [writeup](operational-technology/operation-nightshift-part2/writeup.md) |
+| Operation Nightshift - Industrial Sabotage Investigation (Part 3) | - | 400 | [writeup](operational-technology/operation-nightshift-part3/writeup.md) |
+| Factory Reset | Medium | 400 | [writeup](operational-technology/factory-reset/writeup.md) |
+| The Recruiter: Industrial Infiltration | Medium | 500 | [writeup](operational-technology/the-recruiter-industrial-infiltration/writeup.md) |
 
 ### Machine Learning
 
 | Challenge | Difficulty | Points | Writeup |
 |-----------|------------|--------|---------|
+| El Oráculo Cegado | - | 400 | [writeup](machine-learning/el-oraculo-cegado/writeup.md) |
+| Pixel Poison: The Dog that Sailed | - | 500 | [writeup](machine-learning/pixel-poison-the-dog-that-sailed/writeup.md) |
